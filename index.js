@@ -10,8 +10,8 @@ const path = require('path');
 const app = express();
 
 // Configuration
-const DISCORD_CLIENT_ID = '1419789743482343587';
-const DISCORD_CLIENT_SECRET = 'c9xG-tg8Nz5EFCf0EUqS2lXZ4PmECc7B';
+const DISCORD_CLIENT_ID = 'thêm client;
+const DISCORD_CLIENT_SECRET = 'thêm client secret;
 const DISCORD_REDIRECT_URI = 'https://0d41f94c-8398-4152-a253-9e1bbafb1e31-00-3jg4s4re7ww6k.spock.replit.dev/auth/discord/callback';
 
 // Session configuration
